@@ -111,6 +111,7 @@ class AboutUs extends Component {
                             <div className="col-lg-12 col-md-12">
                             <div className="title129">
                                 <h2>About Us</h2>
+{/* <h2>About Us</h2> */}
                             </div>
                             </div>
                         </div>
