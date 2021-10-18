@@ -198,6 +198,7 @@ class AboutUs extends Component {
                                         <img src={Logo1} alt="" />
                                         </div>
                                         <h4>Name</h4>
+<h5> AQIL </h5>
                                         <span>CEO &amp; Co-Founder</span>
                                     </div>
                                     </div>
